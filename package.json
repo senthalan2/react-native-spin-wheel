@@ -1,5 +1,5 @@
 {
-  "name": "@fidme/react-native-wheel-of-fortune",
+  "name": "react-native-spin-wheel",
   "version": "2.1.4",
   "description": "React Native Wheel Of Fortune Component.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FidMe/react-native-wheel-of-fortune.git"
+    "url": "git+https://github.com/senthalan2/react-native-spin-wheel.git"
   },
   "keywords": [
     "react native wheel of fortune",
@@ -25,9 +25,9 @@
   "author": "Eftal Yurtseven",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eftalyurtseven/react-native-wheel-of-fortune/issues"
+    "url": "https://github.com/senthalan2/react-native-spin-wheel/issues"
   },
-  "homepage": "https://github.com/eftalyurtseven/react-native-wheel-of-fortune#readme",
+  "homepage": "https://github.com/senthalan2/react-native-spin-wheel#readme",
   "devDependencies": {
     "prettier": "2.8.3"
   }
